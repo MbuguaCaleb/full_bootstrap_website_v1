@@ -3,10 +3,14 @@
 **Deployed website url**
 
 ```
-https://mbuguacaleb.github.io/full_bootstrap_website_v1/
-
+Below is the deployed project url
 
 ```
+
+[Deployed Project Url](https://mbuguacaleb.github.io/full_bootstrap_website_v1/)
+
+
+**Short notes**
 
 **Bootstrap Design**
 
