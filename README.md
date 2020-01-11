@@ -26,5 +26,34 @@ You should have relative ids for the nabvar and each other section so as to impl
 
 (e)Grids are by columns in bootstrap
 
+(f)Margin is used to separate two html components  from each other..
 
+
+(g)To make the background image to display underneath the content  we use the z-index property.
+
+
+To remove white space brween sections we assign the margin bottom property to zero.
+
+Wow..margin top and margin bottom for spacing..
+
+What a great idea..
+Hr stands for horizontal rule.
+
+
+! important is sometimes added so that a style takes effect.
+
+Remember the tip of the bootstrap media queries which begin one pixel less.
+
+
+(h)display:block margin :0auto can be used to center an image.
+
+
+Thank you God!!
+
+```
+
+**Notes**
+
+```
+By Mbugua Caleb.
 ```
