@@ -1,0 +1,23 @@
+{
+  "name": "full_bootstrap_website_v1",
+  "version": "1.0.0",
+  "description": "complete_html_and_css_website with bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/full_bootstrap_website_v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/full_bootstrap_website_v1/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/full_bootstrap_website_v1",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
